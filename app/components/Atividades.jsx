@@ -7,7 +7,7 @@ const chapters = [
   {
     title: 'Capítulo 1: Como consumir de maneira sustentável?',
     activities: [
-      { title: 'Atividade Extra de Nivelamento - Cap. 1', url: 'https://forms.gle/ZihCYCimEgy4Tikz6' },
+      { title: 'Atividade Exclusiva Digital - Cap. 1', url: 'https://forms.gle/ZihCYCimEgy4Tikz6' },
       { title: 'Atividade 1.1', url: 'https://forms.gle/jWsUJgh3QZYRxBrB7' },
       { title: 'Atividade 1.2', url: 'https://forms.gle/bdbQTUKDTaidMbGm6' },
       { title: 'Atividade 1.3', url: 'https://forms.gle/exHcFPRgi9B4M1A4A' },
@@ -19,7 +19,7 @@ const chapters = [
   {
     title: "Capítulo 2: Como não gastar mais do que deveríamos?",
     activities: [
-      { title: "Atividade Extra de Nivelamento - Cap. 2", url: "https://forms.gle/ZW2vJPFL4zfPmKwi6" },
+      { title: "Atividade Exclusiva Digital - Cap. 2", url: "https://forms.gle/ZW2vJPFL4zfPmKwi6" },
       { title: "Atividade 2.1", url: "https://forms.gle/T54d751EX2J1KPbJ6" },
       { title: "Atividade 2.2", url: "https://forms.gle/hmyYSHmXNRnb7LDV8" },
       { title: "Exercícios do Capítulo 2", url: "https://forms.gle/a6vvR67naNCB38bE9" },
@@ -28,7 +28,7 @@ const chapters = [
   {
     title: "Capítulo 3: O que você precisa comprar no mercado?",
     activities: [
-      { title: "Atividade Extra de Nivelamento - Cap. 3", url: "https://forms.gle/pKaJGptXYzgVTjX8A" },
+      { title: "Atividade Exclusiva Digital - Cap. 3", url: "https://forms.gle/pKaJGptXYzgVTjX8A" },
       { title: "Atividade 3.1", url: "https://forms.gle/Wwt1rbHdrq6CHWKRA" },
       { title: "Atividade 3.2", url: "https://forms.gle/Yj4Ue6CBntTtWHdQA" },
       { title: "Atividade 3.3", url: "https://forms.gle/FwAVRqzqwBCgkQzH8" },
@@ -40,7 +40,7 @@ const chapters = [
   {
     title: "Capítulo 4: Os meus direitos como consumidor!",
     activities: [
-      { title: "Atividade Extra de Nivelamento - Cap. 4", url: "https://forms.gle/gQcgTZ51GNH8U7hJ7" },
+      { title: "Atividade Exclusiva Digital - Cap. 4", url: "https://forms.gle/gQcgTZ51GNH8U7hJ7" },
       { title: "Atividade 4.1", url: "https://forms.gle/brS9kMZEGSaizTv5A" },
       { title: "Atividade 4.2", url: "https://forms.gle/Lmmd172Wha4WFriW6" },
       { title: "Exercícios do Capítulo 4", url: "https://forms.gle/5Wb9Yxwj4JXT9jxK6" },
@@ -49,7 +49,7 @@ const chapters = [
   {
     title: "Capítulo 5: Alcançando objetivos em família",
     activities: [
-      { title: "Atividade Extra de Nivelamento - Cap. 5", url: "https://forms.gle/DS19E21qkXQ6ZviM8" },
+      { title: "Atividade Exclusiva Digital - Cap. 5", url: "https://forms.gle/DS19E21qkXQ6ZviM8" },
       { title: "Atividade 5.1", url: "https://forms.gle/NWuZgKCrqVdUm6AR8" },
       { title: "Atividade 5.2", url: "https://forms.gle/t8kAVyMSRqf4ou7W6" },
       { title: "Atividade 5.3", url: "https://forms.gle/FMLQtXsTY2roQy4G6" },
@@ -63,7 +63,7 @@ const chapters = [
   {
     title: "Capítulo 6: Despesas",
     activities: [
-      { title: "Atividade Extra de Nivelamento - Cap. 6", url: "https://forms.gle/MqJ3Y3zPdaHnakvT7" },
+      { title: "Atividade Exclusiva Digital - Cap. 6", url: "https://forms.gle/MqJ3Y3zPdaHnakvT7" },
       { title: "Atividade 6.1", url: "https://forms.gle/e2h2HAHQKxtnUEpc9" },
       { title: "Atividade 6.2", url: "https://forms.gle/zhPoRH9zoVfAk5E9A" },
       { title: "Atividade 6.3", url: "https://forms.gle/kym8DRewvne4ARLb7" },
@@ -74,7 +74,7 @@ const chapters = [
   {
     title: "Capítulo 7: Tendo uma vida financeira equilibrada",
     activities: [
-      { title: "Atividade Extra de Nivelamento - Cap. 7", url: "https://forms.gle/e6pTijeMkf59di6A7" },
+      { title: "Atividade Exclusiva Digital - Cap. 7", url: "https://forms.gle/e6pTijeMkf59di6A7" },
       { title: "Atividade 7.1", url: "https://forms.gle/U2kpBLCqkC9d9uMZ8" },
       { title: "Atividade 7.2", url: "https://forms.gle/Pk4FZxgP1H5fxUTo7" },
       { title: "Atividade 7.3", url: "https://forms.gle/AjLcHN4TRuR8urnw5" },
@@ -90,7 +90,7 @@ const chapters = [
   {
     title: "Capítulo 8: Realizando sonhos com o dinheiro guardado",
     activities: [
-      { title: "Atividade Extra de Nivelamento - Cap. 8", url: "https://forms.gle/zo75QwPDH5gmwjb67" },
+      { title: "Atividade Exclusiva Digital - Cap. 8", url: "https://forms.gle/zo75QwPDH5gmwjb67" },
       { title: "Atividade 8.1", url: "https://forms.gle/W9fban64Ei94tBRz6" },
       { title: "Atividade 8.2", url: "https://forms.gle/DVwtBCyi4KZQ67tV9" },
       { title: "Atividade 8.3", url: "https://forms.gle/38KEVwa2Rp35k1af7" },
@@ -102,7 +102,7 @@ const chapters = [
   {
   title: "Capítulo 9: Juros: dívidas e investimentos",
   activities: [
-    { title: "Atividade Extra de Nivelamento - Cap. 9", url: "https://forms.gle/riBiyeoqhkYq9ZvT9" },
+    { title: "Atividade Exclusiva Digital - Cap. 9", url: "https://forms.gle/riBiyeoqhkYq9ZvT9" },
     { title: "Atividade 9.1", url: "https://forms.gle/GA8kdxc7cXJAFqyTA" },
     { title: "Atividade 9.2", url: "https://forms.gle/iz1TZeNTZjmhY5CT8" },
     { title: "Atividade 9.3", url: "https://forms.gle/pbT25eLBmzJoAHeU7" },
@@ -115,7 +115,7 @@ const chapters = [
 {
   title: "Capítulo 10: Inflação",
   activities: [
-    { title: "Atividade Extra de Nivelamento - Cap. 10", url: "https://forms.gle/s17toXLxLF2Z2d4B6" },
+    { title: "Atividade Exclusiva Digital - Cap. 10", url: "https://forms.gle/s17toXLxLF2Z2d4B6" },
     { title: "Atividade 10.1", url: "https://forms.gle/9WBKK58sXtmp9s84A" },
     { title: "Exercícios do Capítulo 10", url: "https://forms.gle/xHHGR58Wc6kfPHLD6" },
   ],
@@ -123,7 +123,7 @@ const chapters = [
 {
   title: "Capítulo 11: Construindo redes solidárias",
   activities: [
-    { title: "Atividade Extra de Nivelamento - Cap. 11", url: "https://forms.gle/MM8eFcoifWBt19Pk9" },
+    { title: "Atividade Exclusiva Digital - Cap. 11", url: "https://forms.gle/MM8eFcoifWBt19Pk9" },
     { title: "Atividade 11.1", url: "https://forms.gle/JopaEpLWfEUuaEbp9" },
     { title: "Atividade 11.2", url: "https://forms.gle/eAw8VgFxcB53wVcKA" },
     { title: "Exercícios do Capítulo 11", url: "https://forms.gle/upoR9cWRMikWP2x67" },
